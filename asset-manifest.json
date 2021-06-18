@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Curriculum/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Curriculum/static/js/main.c274e15f.chunk.js",
+    "main.js.map": "/Curriculum/static/js/main.c274e15f.chunk.js.map",
+    "runtime-main.js": "/Curriculum/static/js/runtime-main.663661d3.js",
+    "runtime-main.js.map": "/Curriculum/static/js/runtime-main.663661d3.js.map",
+    "static/js/2.4674b17b.chunk.js": "/Curriculum/static/js/2.4674b17b.chunk.js",
+    "static/js/2.4674b17b.chunk.js.map": "/Curriculum/static/js/2.4674b17b.chunk.js.map",
+    "static/js/3.48d4a794.chunk.js": "/Curriculum/static/js/3.48d4a794.chunk.js",
+    "static/js/3.48d4a794.chunk.js.map": "/Curriculum/static/js/3.48d4a794.chunk.js.map",
+    "index.html": "/Curriculum/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Curriculum/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.4674b17b.chunk.js.LICENSE.txt": "/Curriculum/static/js/2.4674b17b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Curriculum/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.663661d3.js",
+    "static/js/2.4674b17b.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.c274e15f.chunk.js"
+  ]
+}
